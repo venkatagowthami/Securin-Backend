@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Paneer Butter Masala",
+    "cuisine": "Indian",
+    "rating": 4.5,
+    "total_time": 45,
+    "serves": 4,
+    "description": "A rich curry with paneer in tomato-based sauce"
+  },
+  {
+    "id": 2,
+    "title": "Pasta Alfredo",
+    "cuisine": "Italian",
+    "rating": 4.2,
+    "total_time": 30,
+    "serves": 2,
+    "description": "Creamy pasta with parmesan and garlic"
+  },
+  {
+    "id": 3,
+    "title": "Sushi",
+    "cuisine": "Japanese",
+    "rating": 4.8,
+    "total_time": 60,
+    "serves": 2,
+    "description": "Classic sushi rolls with fish and rice"
+  },
+  {
+    "id": 4,
+    "title": "Tacos",
+    "cuisine": "Mexican",
+    "rating": 4.3,
+    "total_time": 25,
+    "serves": 3,
+    "description": "Tortillas filled with beef, veggies, and salsa"
+  },
+  {
+    "id": 5,
+    "title": "Shakshuka",
+    "cuisine": "Middle Eastern",
+    "rating": 4.6,
+    "total_time": 35,
+    "serves": 2,
+    "description": "Eggs poached in tomato sauce with peppers and spices"
+  }
+]
